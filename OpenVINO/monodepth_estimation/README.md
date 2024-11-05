@@ -10,7 +10,7 @@ This program performs real-time depth estimation and visualization by:
 - **Creating a Heatmap**: The depth information is transformed into a color-coded heatmap, making it easy to visually interpret the relative distances of objects.
 - **Optimizing Inference on CPU**: By leveraging OpenVINO, the application runs efficiently on a CPU, making it suitable for use in embedded systems and environments with limited resources.
 
- ![Output Image](.output.png)
+ ![Output Image](output.png)
 
 ## Requirements
 
@@ -40,7 +40,7 @@ pip install 'requests==2.32.3'
 - **Author**: Alan Pipitone
 - **Email**: alan.pipitone@gmail.com
 
-Please only contact me if you encounter **serious** issues with the code. 
+Please only contact me if you encounter **serious** issues with the code.
 
 If you're looking to hire someone for **innovative Python projects**, feel free to reach out — I won't mind! 😄
 
