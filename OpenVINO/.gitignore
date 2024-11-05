@@ -1,0 +1,6 @@
+# openvino
+model/
+cache/
+
+# exclude .DS_Store
+**/.DS_Store
